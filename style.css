@@ -11,8 +11,22 @@ body {
     background-color: #fff;
 }
 
+.navbar {
+    background-color: blue;
+    color: white;
+}
 
 .container {
     width: 1200px;
     margin: 0 auto;
+}
+
+.carousel {
+    background-color: #FEEAE9;
+}
+.row {
+    padding-left: 20px;
+}
+.price{
+    color:#FF136F;
 }
